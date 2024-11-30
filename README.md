@@ -3,7 +3,7 @@ The Barb-A-Watt is a QRP - SWR/Power Meter/Dummy Load which overcomes the accura
 There are two manuals here in this repository:
   Version 2.3 is the latest construction and operations manual for the V1.2 Main Board which utilizes SMD mounted PIC controller and operates using a 9v battery.
 
-  Version 3.1 is the initial release for the V2.0 Main Board which uses a 28 PIN DIP PIC controller and operates using 2 x AAA Batteries.
+  Version 3.1 is the lstest construction and operations manual for the V2.0 Main Board which uses a 28 PIN DIP PIC controller and operates using 2 x AAA Batteries.
 
 Both versions of the Barb-A-Watt offer exactly the same performance and method of operation.
 
